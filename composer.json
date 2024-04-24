@@ -1,0 +1,18 @@
+{
+    "name": "xrquan/random",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xrquan\\Random\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ljubomir Stanic",
+            "email": "lstanic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
