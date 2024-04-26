@@ -1,5 +1,5 @@
 {
-    "name": "xrquan/random",
+    "name": "xrquan/random-words",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -13,6 +13,7 @@
             "email": "lstanic@schueler.hakzell.at"
         }
     ],
+    "version": "1.1.0",
     "minimum-stability": "dev",
     "require": {}
 }
